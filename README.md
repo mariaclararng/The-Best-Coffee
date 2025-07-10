@@ -13,13 +13,14 @@ Bem-vindo ao **The Best Coffee**, um site simples e elegante criado com HTML e C
 
 ## 📌 Funcionalidades
 
-- Página única (One Page)
-- Layout responsivo
+- Página única (One Page) 
 - Design limpo e moderno
 - Seções temáticas com:
   - Introdução ao café
   - Tipos populares de preparo
   - Curiosidades interessantes
+ 
+( ainda não responsivo , apenas visivel para desktop ).
 
 ## 🌐 Acesse o meu Projeto
 
